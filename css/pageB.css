@@ -3,17 +3,17 @@
 .b_background {
     width: 100%;
     height: 100%;
-    background-image: url("http://img.mukewang.com/55ade06f00015a0d14410901.png");
+    background-image: url("../img/QixiB-dark.png");
     background-size: 100% 100%;
     position: absolute;
 }
 
 .b_background_preload {
-    background: url("http://img.mukewang.com/55ade0be0001a37914410901.png") no-repeat -9999px -9999px;
+    background: url("../img/QixiB-bright.png.png") no-repeat -9999px -9999px;
 }
 
 .lamp-bright {
-   background-image: url("http://img.mukewang.com/55ade0be0001a37914410901.png");
+   background-image: url("../img/QixiB-bright.png.png");
 }
 
 
